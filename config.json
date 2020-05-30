@@ -1,0 +1,8 @@
+{
+  "footer": "Embed maker by imeuropa",
+  "errormsg": "Please enter embed content, usage: `-embed <content with formatting>`",
+  "prefix": "-",
+  "embedCommand": "embed",
+  "token": "token",
+  "adminRole": "adminRoleName"
+}
