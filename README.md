@@ -7,4 +7,5 @@ This bot should be compatable with most Discord.js hosts.
 If you are looking for cheap but high quality Discord.js hosting then Heimsnet Hosting is what you are looking for, go to [www.heimsnet.eu/discord-bot-hosting](https://www.heimsnet.eu/discord-bot-hosting/) to view the affordable pricing.
 
 [![CC-0](https://licensebuttons.net/p/zero/1.0/88x31.png "CC-0")](https://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, imeuropa has waived all copyright and related or neighboring rights to discord.js-embed-maker. This work is published from: Iceland.
